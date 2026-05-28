@@ -1,4 +1,4 @@
 # Repository-s-demo
 This is my first repository.
 <br>
-By= Dayanand
+By= Dayanand Dogar
