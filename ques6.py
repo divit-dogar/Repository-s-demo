@@ -16,8 +16,9 @@ for i in range (1, n+1):
         print (y, end ="")
     #print ascending number
     for y in range (2,i+1):
-        print (z , end="")
+        print (y , end="")
     print()
+    
 
 
 
