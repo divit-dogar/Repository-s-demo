@@ -4,6 +4,6 @@ s=input("Enter a string: ")
 revers =""
 
 for x in s:
-    revers = x + revers
+    revers = x + revers 
 print("reverse of the string is: ",revers)
 
